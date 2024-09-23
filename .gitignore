@@ -12,6 +12,7 @@ web-build/
 
 # macOS
 .DS_Store
+<<<<<<< HEAD
 
 #python virtual environment
 server/venv/
@@ -25,3 +26,5 @@ server/__pycache__
 
 #deta files
 server/.deta
+=======
+>>>>>>> temp-branch

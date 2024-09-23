@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+<<<<<<< HEAD
     },
     "plugins": [
       [
@@ -37,5 +38,8 @@
         }
       ]
     ]
+=======
+    }
+>>>>>>> temp-branch
   }
 }
